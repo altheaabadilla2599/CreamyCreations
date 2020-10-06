@@ -2,8 +2,9 @@
 
 
 body {
-  background-size: 2px 3px;
+ 
   background-color: #779ecb;
+  overflow-x: hidden;
   
 }
 
